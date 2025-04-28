@@ -15,12 +15,22 @@ plugins:
   - jekyll-seo-tag
 
 collections:
-    collection_nav_links:
-      output: true
-    collection_projects:
-      output: true
-    collection_social:
-      output: true
+  collection_nav_links:
+    output: true
+  collection_projects:
+    output: true
+  collection_social:
+    output: true
+
+projects:
+  - title: "My Projects"
+    description: "A collection of my projects and their details."
+    url: "/projects/"
+    image: "/assets/images/projects.jpg"
+  - title: "My Blog"
+    description: "A collection of my blog posts and articles."
+    url: "/blog/"
+    image: "/assets/images/blog.jpg"
 
 content:
   -_projects:
