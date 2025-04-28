@@ -1,9 +1,20 @@
-# Welcome to My GitHub Page
+# Certified Azure Solution Architect Expert
 
-I'm a Software Architect with over 18 years of experience in software design, architecture and development with Microsoft .Net platform.
+I'm an experienced **Azure Solution Architect** with over 20 years of success designing and delivering cloud-native solutions. Specialized in Azure technologies, DevSecOps practices, and modern architecture frameworks across Finance, Capital Markets, Asset Management, and E-Commerce industries. Strong communicator, technical leader, and strategic thinker with a proven record of improving scalability, reducing costs, and enabling digital transformation.
 
-* Designing enterprise scalable multi-tenant application and large system integrations, using cloud services, messaging systems (using Azure ServiceBus, RabbitMQ), Event-Driven Architecture, CQRS, Event Sourcing, MicroServices architecture.
-* Designing applications using different data storage technologies: Relational Databases (SQL Server, Oracle) and NoSQL Databases: Azure Cosmos DB, Azure DocumentDB, MongoDB, ElasticSearch
-* Helping teams and organizations to produce software that makes perfect sense to the business by applying DDD (Domain-Driven Design).
-* Designing native cloud application using different Azure services (AAD, Azure AD B2C, Service Bus, AppService, Serverless Functions, Storage, CosmosDB, WebApp, WebJob)
-* Helping organizations to move legacy applications to cloud.
+## Core Skills
+
+* Azure Cloud Architecture (IaaS, PaaS, SaaS)
+* Microservices, Event-Driven Architecture
+* Infrastructure as Code (IaC) using ARM templates, Bicep, Terraform
+* Azure Networking, Security, Identity & Access Management
+* Azure Governance, Compliance, and Cost Optimization
+* Data Governance, Analytics (Blob Storage, Data Lake, Data Factory)
+* DevSecOps (SAST, DAST, Secure CI/CD Pipelines)
+* Cross-functional Leadership & Team Management
+
+## Certificates
+
+* [Microsoft Certified: Azure Administrator Associate - OCT 2024](https://learn.microsoft.com/api/credentials/share/en-us/hosseinnassiri/5A9C21DAA67924D1?sharingId=6BE52B73542AB83C)
+* [Microsoft Certified: Azure Solutions Architect Expert - OCT 2024](https://learn.microsoft.com/api/credentials/share/en-us/hosseinnassiri/6CC7EF316792E746?sharingId=6BE52B73542AB83C)
+* [Microsoft Certified: Azure Data Fundamentals - FEB 2025](https://learn.microsoft.com/api/credentials/share/en-us/hosseinnassiri/99B862EC6695A235?sharingId=6BE52B73542AB83C)
