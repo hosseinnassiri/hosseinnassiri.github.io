@@ -14,6 +14,14 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+collections:
+    collection_nav_links:
+      output: true
+    collection_projects:
+      output: true
+    collection_social:
+      output: true
+
 content:
   -_projects:
     - title: "My Projects"
