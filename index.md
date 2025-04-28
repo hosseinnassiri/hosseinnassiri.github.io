@@ -21,6 +21,6 @@ I'm an experienced **Azure Solution Architect** with over 20 years of success de
 
 <ul>
 {% for certificate in site.certificates %}
-    <li><a href="{{ certificate.cert_url }}">{{ certificate.name }} {{ certificate.short_name }}</a></li>
+    <li><a href="{{ certificate.url }}">{{ certificate.name }} {{ certificate.short_name }}</a></li>
 {% endfor %}
 </ul>
