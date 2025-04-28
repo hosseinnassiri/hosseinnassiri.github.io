@@ -1,5 +1,7 @@
 title: Hossein Nassiri, Solution Architect
 description: Feel free to bookmark this to keep an eye on my projects!
+email: hossein.nassiri@gmail.com
+github_username: hosseinnassiri
 
 show_downloads: false
 # Your Google Analytics tracking ID
@@ -11,11 +13,11 @@ plugins:
 
 content:
   -_projects:
-      - title: "My Projects"
-        description: "A collection of my projects and their details."
-        url: "/projects/"
-        image: "/assets/images/projects.jpg"
-      - title: "My Blog"
-        description: "A collection of my blog posts and articles."
-        url: "/blog/"
-        image: "/assets/images/blog.jpg"
+    - title: "My Projects"
+      description: "A collection of my projects and their details."
+      url: "/projects/"
+      image: "/assets/images/projects.jpg"
+    - title: "My Blog"
+      description: "A collection of my blog posts and articles."
+      url: "/blog/"
+      image: "/assets/images/blog.jpg"
