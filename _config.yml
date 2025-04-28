@@ -24,6 +24,13 @@ collections:
   collection_social:
     output: true
 
+defaults:
+  - scope:
+      path: ""
+      type: "certificates"
+    values:
+      layout: "certificate"
+
 projects:
   - title: "My Projects"
     description: "A collection of my projects and their details."
