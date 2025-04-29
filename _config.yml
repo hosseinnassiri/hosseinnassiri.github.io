@@ -41,13 +41,14 @@ projects:
     url: "/blog/"
     image: "/assets/images/blog.jpg"
 
+skills:
+  - Azure Cloud Architecture (IaaS, PaaS, SaaS)
+  - Microservices, Event-Driven Architecture
+  - Infrastructure as Code (IaC) using ARM templates, Bicep, Terraform
+  - Azure Networking, Security, Identity & Access Management
+  - Azure Governance, Compliance, and Cost Optimization
+  - Data Governance, Analytics (Blob Storage, Data Lake, Data Factory)
+  - DevSecOps (SAST, DAST, Secure CI/CD Pipelines)
+  - Cross-functional Leadership & Team Management
+
 content:
-  -_projects:
-    - title: "My Projects"
-      description: "A collection of my projects and their details."
-      url: "/projects/"
-      image: "/assets/images/projects.jpg"
-    - title: "My Blog"
-      description: "A collection of my blog posts and articles."
-      url: "/blog/"
-      image: "/assets/images/blog.jpg"

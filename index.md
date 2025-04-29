@@ -8,14 +8,9 @@ I'm an experienced **Azure Solution Architect** with over 20 years of success de
 
 ## Core Skills
 
-* Azure Cloud Architecture (IaaS, PaaS, SaaS)
-* Microservices, Event-Driven Architecture
-* Infrastructure as Code (IaC) using ARM templates, Bicep, Terraform
-* Azure Networking, Security, Identity & Access Management
-* Azure Governance, Compliance, and Cost Optimization
-* Data Governance, Analytics (Blob Storage, Data Lake, Data Factory)
-* DevSecOps (SAST, DAST, Secure CI/CD Pipelines)
-* Cross-functional Leadership & Team Management
+{% for skill in site.skills %}
+*    {{ skill }}
+{% endfor %}
 
 ## Certificates
 
