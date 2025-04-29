@@ -32,11 +32,11 @@ defaults:
       layout: "certificate"
 
 projects:
-  - title: "My Projects"
+  - title: "Project 1"
     description: "A collection of my projects and their details."
     url: "/projects/"
     image: "/assets/images/projects.jpg"
-  - title: "My Blog"
+  - title: "Project 2"
     description: "A collection of my blog posts and articles."
     url: "/blog/"
     image: "/assets/images/blog.jpg"
