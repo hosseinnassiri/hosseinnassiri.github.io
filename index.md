@@ -9,13 +9,11 @@ I'm an experienced **Azure Solution Architect** with over 20 years of success de
 ## Core Skills
 
 {% for skill in site.skills %}
-*    {{ skill }}
+* {{ skill }}
 {% endfor %}
 
 ## Certificates
 
-<ul>
 {% for certificate in site.certificates %}
-    <li><a href="{{ certificate.url }}">{{ certificate.name }} {{ certificate.short_name }}</a></li>
+* [{{ certificate.name }} {{ certificate.short_name }}]({{ certificate.url }})
 {% endfor %}
-</ul>
