@@ -41,10 +41,10 @@
             </section>
 
             <aside id="sidebar">
-                <p><strong>Core Skills</strong></p>
-                <ul>
-                    {% for skill in site.skills %}
-                    <li>{{ skill }}</li>
+                <p><strong>Certificates</strong></p>
+                <ul class="certificates">
+                    {% for certificate in site.certificates %}
+                    <li><a href="{{ certificate.url }}">{{ certificate.name }}</a></li>
                     {% endfor %}
                 </ul>
 
