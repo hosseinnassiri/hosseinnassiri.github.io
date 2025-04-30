@@ -17,6 +17,8 @@ plugins:
 collections:
   certificates:
     output: true
+  projects:
+    output: true
   collection_nav_links:
     output: true
   collection_projects:
@@ -31,15 +33,15 @@ defaults:
     values:
       layout: "certificate"
 
-projects:
-  - title: "Project 1"
-    description: "A collection of my projects and their details."
-    url: "/projects/"
-    image: "/assets/images/projects.jpg"
-  - title: "Project 2"
-    description: "A collection of my blog posts and articles."
-    url: "/blog/"
-    image: "/assets/images/blog.jpg"
+# projects:
+#   - title: "Project 1"
+#     description: "A collection of my projects and their details."
+#     url: "/projects/"
+#     image: "/assets/images/projects.jpg"
+#   - title: "Project 2"
+#     description: "A collection of my blog posts and articles."
+#     url: "/blog/"
+#     image: "/assets/images/blog.jpg"
 
 skills:
   - Azure Cloud Architecture (IaaS, PaaS, SaaS)
