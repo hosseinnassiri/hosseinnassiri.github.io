@@ -32,6 +32,11 @@ defaults:
       type: "certificates"
     values:
       layout: "certificate"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
 
 # projects:
 #   - title: "Project 1"
