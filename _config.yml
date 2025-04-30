@@ -1,11 +1,13 @@
-title: Hossein Nassiri, Principal Solution Architect
-description: Feel free to bookmark this to keep an eye on my projects!
+title: Hossein Nassiri
+description: Principal Cloud Solution Architect
 email: hossein.nassiri@gmail.com
 github_username: hosseinnassiri
 
 show_downloads: false
 # Your Google Analytics tracking ID
 google_analytics:
+github:
+  is_project_page: true
 
 remote_theme: pages-themes/architect@v0.2.0
 plugins:
