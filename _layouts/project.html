@@ -4,6 +4,11 @@ layout: default
 
 <h1>{{ page.title }}</h1>
 
+<small>
+    {% for tag in page.tags %}
+    {{ tag }}
+    {% endfor %}
+</small>
 <p>{{ page.description }}</p>
 <a target="_blank" href="{{page.repository_url}}">Check my repository here!</a>
 
