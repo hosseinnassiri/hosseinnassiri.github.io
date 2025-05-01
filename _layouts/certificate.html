@@ -3,7 +3,7 @@ layout: default
 ---
 
 <h1>{{ page.name }}</h1>
-<h3>{{ page.date }}</h3>
+<h3>{{ page.date | date: '%h, %Y' }}</h3>
 <a target="_blank" href="{{page.cert_url}}">Verify my {{ page.short_name }} certificate here!</a>
 
 <p>{{ content }}</p>
