@@ -8,7 +8,7 @@ layout: default
 <a target="_blank" href="{{page.repository_url}}">Check my repository here!</a>
 <small>
     {% for tag in page.tags %}
-    {{ tag }}
+    {{ tag | capitalize }}
     {% endfor %}
 </small>
 
